@@ -1,4 +1,6 @@
 Clarion::Application.routes.draw do
+  resources :habitaciones
+
   get "habitaciones/index"
 
   get "home/index"
