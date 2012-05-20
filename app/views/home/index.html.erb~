@@ -28,8 +28,13 @@
 
 <link href="css/superfish.css" rel="stylesheet" />
 
+<<<<<<< HEAD
 <!-- <link id="google_font" href='http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:light,regular' rel='stylesheet' type='text/css' /> -->
 <link href="http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz" rel="stylesheet" type="text/css">
+=======
+<link id="google_font" href='http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:light,regular' rel='stylesheet' type='text/css' />
+
+>>>>>>> d19b9ff42313496aa7ef10a8219e46d69b0064e7
 <!-- fallback if js not enabled //-->
 
 <link href="css/noscript.css" rel="stylesheet" type="text/css" media="screen,all" id="noscript" /> 
@@ -692,7 +697,11 @@ Clarion de San Pedro Sula
 
 </h2>
 
-                <p>Esta ubicado en una zona estratégica  a escasos  minutos  de diferentes destinos de interés dentro de las ciudad  y a pocas horas  de las ciudades m谩s importantes de Honduras.
+<<<<<<< HEAD
+                <p>Esta ubicado en una zona estratégica  a escasos  minutos  de diferentes destinos de interés dentro de las ciudad  y a pocas horas  de las ciudades más importantes de Honduras.
+=======
+                <p>Esta ubicado en una zona estrat茅gica  a escasos  minutos  de diferentes destinos de inter茅s dentro de las ciudad  y a pocas horas  de las ciudades m谩s importantes de Honduras.
+>>>>>>> d19b9ff42313496aa7ef10a8219e46d69b0064e7
 
 
 
@@ -702,9 +711,15 @@ Le invitamos a pasar con nosotros los momentos inolvidables en la ciudad </p>
 
 <div class="grid_6">
 
+<<<<<<< HEAD
   <h2 class="title">Información</h2>
 
   <p>Mas información del hotel</p>
+=======
+  <h2 class="title">Informaci贸n</h2>
+
+  <p>Mas informaci贸n del hotel</p>
+>>>>>>> d19b9ff42313496aa7ef10a8219e46d69b0064e7
 
 </div>
 
